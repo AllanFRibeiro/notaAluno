@@ -1,0 +1,14 @@
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.exe
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.deps.json
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.runtimeconfig.json
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.runtimeconfig.dev.json
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.dll
+C:\Imersao_Logica\notaAluno\notaAluno\bin\Debug\netcoreapp3.1\notaAluno.pdb
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.csproj.AssemblyReference.cache
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.AssemblyInfoInputs.cache
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.AssemblyInfo.cs
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.dll
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.pdb
+C:\Imersao_Logica\notaAluno\notaAluno\obj\Debug\netcoreapp3.1\notaAluno.genruntimeconfig.cache
